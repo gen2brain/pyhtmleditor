@@ -1,0 +1,2 @@
+include setup.py pyhtmleditor AUTHORS README COPYING
+recursive-include src/ *.py *.ui
